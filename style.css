@@ -1,0 +1,12 @@
+.test_image_and_result
+{
+    background-color: grey;
+    width: 100%;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.img_responsive
+{
+    height: 350px;
+    width: 200px;
+}
